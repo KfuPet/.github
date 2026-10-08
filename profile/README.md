@@ -118,11 +118,6 @@
   <img src="https://contrib.rocks/image?repo=KfuPet/KfuPet" alt="Contributors" />
 </a>
 
-特别鸣谢：
-
-- [xiao-Kfu](https://github.com/xiao-Kfu) —— 图片模型提供
-- [SPlayer](https://github.com/SPlayer-Dev/SPlayer) —— 议题模板参考
-
 贡献者头像墙由 [contrib.rocks](https://contrib.rocks/) 生成。
 
 ## 📜 许可协议
