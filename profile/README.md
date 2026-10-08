@@ -4,7 +4,7 @@
 
 <h1>快芙桌宠 · KfuPet</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=26&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&height=60&lines=欢迎来到+KfuPet+官方组织;你的智能桌面伙伴;预设动画+×+AI+驱动;下一代桌宠，不止于桌宠" alt="KfuPet Typing SVG" />
+<img src="./assets/typing.svg" alt="KfuPet Typing SVG" />
 
 <p><b><s>AI 桌宠</s> &nbsp;≠&nbsp; 智能生命体桌宠</b></p>
 
